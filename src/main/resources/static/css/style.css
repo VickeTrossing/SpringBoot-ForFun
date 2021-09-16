@@ -1,0 +1,31 @@
+
+
+
+
+.outer-div{
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 75%;
+    width: 50%;
+    margin-top: 150px;
+}
+
+.inner-div{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid blue;
+    height: 95%;
+    border-radius: 3px;
+    width: 95%;
+}
+
+h1{
+    text-align: center;
+    align-content: center;
+}
